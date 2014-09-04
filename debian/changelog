@@ -1,0 +1,46 @@
+ros-indigo-avt-vimba-camera (0.0.6-0trusty) trusty; urgency=high
+
+  * change to libvimba package
+  * Contributors: Miquel Massot
+
+ -- Miquel Massot <miquel.massot@uib.cat>  Tue, 02 Sep 2014 22:00:00 -0000
+
+ros-indigo-avt-vimba-camera (0.0.5-0trusty) trusty; urgency=high
+
+  * add shared library as imported target
+  * Contributors: Miquel Massot
+
+ -- Miquel Massot <miquel.massot@uib.cat>  Tue, 02 Sep 2014 22:00:00 -0000
+
+ros-indigo-avt-vimba-camera (0.0.4-0trusty) trusty; urgency=high
+
+  * absolute path for libvimbacpp
+  * changed version
+  * bugfix re-release
+  * Contributors: Miquel Massot
+
+ -- Miquel Massot <miquel.massot@uib.cat>  Sun, 31 Aug 2014 22:00:00 -0000
+
+ros-indigo-avt-vimba-camera (0.0.2-0trusty) trusty; urgency=high
+
+  * test on polled camera
+  * formatting
+  * added packages
+  * added GPIO params
+  * added params and launchfile
+  * added launchfile
+  * added camera calibration and fixed reconfiguration issues
+  * first images in ROS
+  * first tests with Manta G-504C
+  * added tags to gitignore
+  * develop in progress
+  * added gitignore
+  * changed package name and pushed some devel
+  * added config file
+  * prepared and tested Vimba library
+  * first commit
+  * Contributors: Miquel Massot
+
+ -- Miquel Massot <miquel.massot@uib.cat>  Sun, 23 Mar 2014 23:00:00 -0000
+
+
