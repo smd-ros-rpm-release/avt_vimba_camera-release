@@ -1,3 +1,24 @@
+## avt_vimba_camera (indigo) - 0.0.8-0
+
+The packages in the `avt_vimba_camera` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --track indigo --ros-distro indigo avt_vimba_camera --edit` on `Fri, 05 Sep 2014 11:00:50 -0000`
+
+The `avt_vimba_camera` package was released.
+
+Version of package(s) in repository `avt_vimba_camera`:
+- upstream repository: https://github.com/srv/avt_vimba_camera.git
+- release repository: https://github.com/srv/avt_vimba_camera-release.git
+- rosdistro version: `0.0.7-0`
+- old version: `0.0.7-0`
+- new version: `0.0.8-0`
+
+Versions of tools used:
+- bloom version: `0.5.11`
+- catkin_pkg version: `0.2.4`
+- rosdep version: `0.10.30`
+- rosdistro version: `0.3.5`
+- vcstools version: `0.1.35`
+
+
 ## avt_vimba_camera (indigo) - 0.0.7-0
 
 The packages in the `avt_vimba_camera` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --track indigo --ros-distro indigo avt_vimba_camera --edit` on `Thu, 04 Sep 2014 08:32:43 -0000`
