@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>avt_vimba_camera</name>
-  <version>0.0.7</version>
+  <version>0.0.8</version>
   <description>Wrapper of the Allied Vision Technologies (AVT) VIMBA Ethernet and Firewire SDK.</description>
 
   <maintainer email="miquel.massot@uib.cat">Miquel Massot</maintainer>
@@ -24,7 +24,7 @@
   <build_depend>sensor_msgs</build_depend>
   <build_depend>std_msgs</build_depend>
   <build_depend>polled_camera</build_depend>
-  <build_depend>libvimba</build_depend>
+  <!--build_depend>libvimba</build_depend-->
   <run_depend>camera_info_manager</run_depend>
   <run_depend>diagnostic_updater</run_depend>
   <run_depend>driver_base</run_depend>
@@ -35,6 +35,6 @@
   <run_depend>sensor_msgs</run_depend>
   <run_depend>std_msgs</run_depend>
   <run_depend>polled_camera</run_depend>
-  <run_depend>libvimba</run_depend>
+  <!--run_depend>libvimba</run_depend-->
 
 </package>
